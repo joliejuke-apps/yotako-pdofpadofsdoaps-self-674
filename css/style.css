@@ -1,0 +1,317 @@
+.breakpoint-0,
+.style9 {
+  background-color: #f6f8f9
+}
+.breakpoint-0 {
+  margin-right: auto;
+  width: 100%;
+  margin-left: auto
+}
+.style9 {
+  margin-left: 0;
+  margin-top: 0;
+  width: 100vw;
+  height: 3.4722222222222223vw;
+  z-index: 8
+}
+.desktop1row1,
+.style1 {
+  display: flex;
+  margin-left: 0
+}
+.desktop1row1 {
+  flex-wrap: wrap;
+  width: 100vw
+}
+.style1 {
+  background-image: url(https://designresources.assets.yotako.io/80syc552yqkcq4499f.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  object-fit: cover;
+  width: 58.333333333333336vw;
+  min-width: 560px;
+  height: 41.666666666666664vw;
+  z-index: 0;
+  flex-direction: column;
+  flex-grow: 1
+}
+.style7 {
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  margin-top: 12.291666666666666vw;
+  width: 41.666666666666664vw;
+  height: 1.3888888888888888vw;
+  z-index: 6
+}
+.style2,
+.style3,
+.style7 {
+  color: #fff;
+  font-family: Helvetica,serif;
+  margin-left: 9.722222222222221vw
+}
+.style3 {
+  font-weight: 700;
+  font-size: 1.6666666666666667vw;
+  margin-top: 5.555555555555555vw;
+  width: 41.666666666666664vw;
+  height: 1.6666666666666667vw;
+  z-index: 2
+}
+.style2 {
+  font-size: 1.1111111111111112vw;
+  line-height: 1.8055555555555556vw;
+  margin-top: .6944444444444444vw;
+  width: 38.888888888888886vw;
+  height: 2.986111111111111vw;
+  z-index: 1
+}
+.style4,
+.style5 {
+  background-color: #fa6980;
+  display: flex;
+  width: 9.305555555555555vw;
+  height: 2.7777777777777777vw;
+  border-radius: .4166666666666667vw
+}
+.style4 {
+  margin-left: 9.722222222222221vw;
+  margin-top: 2.0833333333333335vw;
+  z-index: 3
+}
+.style5 {
+  z-index: 4;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style6 {
+  color: #fff;
+  text-align: center;
+  font-family: Helvetica,serif;
+  font-size: .7638888888888888vw;
+  font-weight: 700;
+  width: 5.138888888888889vw;
+  height: .5555555555555556vw;
+  z-index: 5
+}
+.style10 {
+  background-color: #fff;
+  display: flex;
+  margin-left: 0;
+  width: 41.666666666666664vw;
+  min-width: 400px;
+  height: 41.666666666666664vw;
+  z-index: 9;
+  flex-direction: column;
+  flex-grow: 1
+}
+.desktop1row1container2row0 {
+  display: flex;
+  margin-left: 6.944444444444445vw;
+  margin-top: 6.944444444444445vw;
+  width: 26.38888888888889vw;
+  height: 1.3888888888888888vw;
+  align-items: center
+}
+.style11 {
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  margin-left: 0;
+  width: 22.98611111111111vw;
+  height: 1.3888888888888888vw;
+  z-index: 10
+}
+.style14 {
+  position: relative;
+  display: flex;
+  margin-left: -.20833333333333334vw;
+  width: .4166666666666667vw;
+  height: .6944444444444444vw;
+  z-index: 13;
+  align-self: center;
+  flex-direction: column
+}
+.style15 {
+  z-index: 14
+}
+.style12,
+.style13,
+.style15 {
+  width: .4166666666666667vw;
+  height: .6944444444444444vw
+}
+.style12 {
+  display: flex;
+  margin-left: 2.7777777777777777vw;
+  align-self: center;
+  flex-direction: column;
+  z-index: 11
+}
+.style13 {
+  z-index: 12
+}
+.style17 {
+  display: grid;
+  margin-left: 6.944444444444445vw;
+  margin-top: 5.555555555555555vw;
+  width: 29.166666666666668vw;
+  grid-gap: 2.7083333333333335vw
+}
+.style18 {
+  display: flex;
+  z-index: 17
+}
+.desktop1row1container2grid0container5col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 29.166666666666668vw;
+  height: 8.958333333333334vw;
+  flex-direction: column
+}
+.style19 {
+  color: #fa6980;
+  font-family: Helvetica,serif;
+  font-weight: 700;
+  margin-top: 0;
+  width: 29.166666666666668vw;
+  height: .9722222222222222vw;
+  z-index: 18
+}
+.style19,
+.style20,
+.style21 {
+  font-size: 1.1111111111111112vw;
+  margin-left: 0
+}
+.style20 {
+  font-weight: 700;
+  color: #202124;
+  font-family: Helvetica,serif;
+  margin-top: 1.3888888888888888vw;
+  width: 29.166666666666668vw;
+  height: 1.1111111111111112vw;
+  z-index: 19
+}
+.style21 {
+  color: #a6adb4;
+  font-family: acumin-pro-1,serif;
+  line-height: 1.8055555555555556vw;
+  margin-top: .6944444444444444vw;
+  width: 26.38888888888889vw;
+  height: 2.986111111111111vw;
+  z-index: 20
+}
+.desktop1row1container2grid0container5col0row3 {
+  display: flex;
+  margin-left: 0;
+  margin-top: .6944444444444444vw;
+  width: 5.833333333333333vw;
+  height: 1.1111111111111112vw
+}
+.style23,
+.style24 {
+  width: 1.1111111111111112vw;
+  height: 1.1111111111111112vw
+}
+.style23 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column;
+  z-index: 22
+}
+.style24 {
+  z-index: 23
+}
+.style22 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: .9027777777777778vw;
+  margin-left: .6944444444444444vw;
+  width: 4.027777777777778vw;
+  height: .9027777777777778vw;
+  z-index: 21
+}
+.style25 {
+  display: flex;
+  z-index: 24
+}
+.desktop1row1container2grid0container7col0 {
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 29.166666666666668vw;
+  height: 8.958333333333334vw;
+  flex-direction: column
+}
+.style26 {
+  color: #fa6980;
+  font-family: Helvetica,serif;
+  font-weight: 700;
+  margin-top: 0;
+  width: 29.166666666666668vw;
+  height: .9722222222222222vw;
+  z-index: 25
+}
+.style26,
+.style27,
+.style28 {
+  font-size: 1.1111111111111112vw;
+  margin-left: 0
+}
+.style27 {
+  font-weight: 700;
+  color: #202124;
+  font-family: Helvetica,serif;
+  margin-top: 1.3888888888888888vw;
+  width: 29.166666666666668vw;
+  height: 1.1111111111111112vw;
+  z-index: 26
+}
+.style28 {
+  color: #a6adb4;
+  font-family: acumin-pro-1,serif;
+  line-height: 1.8055555555555556vw;
+  margin-top: .6944444444444444vw;
+  width: 26.38888888888889vw;
+  height: 2.986111111111111vw;
+  z-index: 27
+}
+.desktop1row1container2grid0container7col0row3 {
+  display: flex;
+  margin-left: 0;
+  margin-top: .6944444444444444vw;
+  width: 5.833333333333333vw;
+  height: 1.1111111111111112vw
+}
+.style30,
+.style31 {
+  width: 1.1111111111111112vw;
+  height: 1.1111111111111112vw
+}
+.style30 {
+  display: flex;
+  margin-left: 0;
+  flex-direction: column;
+  z-index: 29
+}
+.style31 {
+  z-index: 30
+}
+.style29 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: .9027777777777778vw;
+  margin-left: .6944444444444444vw;
+  width: 4.027777777777778vw;
+  height: .9027777777777778vw;
+  z-index: 28
+}
+.breakpoint-0 {
+  display: block
+}
